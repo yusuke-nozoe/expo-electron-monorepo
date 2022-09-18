@@ -1,6 +1,5 @@
 {
   "name": "native",
-  "version": "1.0.0",
   "main": "AppEntry.js",
   "scripts": {
     "start": "expo start",
