@@ -1,0 +1,4 @@
+{
+  "name": "expo-electron-monorepo",
+  "packageManager": "yarn@3.2.3"
+}
