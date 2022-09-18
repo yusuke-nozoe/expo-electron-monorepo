@@ -9,7 +9,9 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/electron-adapter": "^0.0.55",
     "@expo/webpack-config": "^0.17.2",
+    "electron": "^20.1.4",
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
