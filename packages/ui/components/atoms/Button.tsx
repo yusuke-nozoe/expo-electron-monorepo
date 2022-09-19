@@ -6,7 +6,7 @@ const Button = ({ children }) => (
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: 'red',
+    backgroundColor: 'blue',
     padding: 12,
   }
 })

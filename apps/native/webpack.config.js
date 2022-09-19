@@ -7,6 +7,7 @@ module.exports = async function (env, argv) {
       dangerouslyAddModulePathsToTranspile: ['ui']
     }
   }, argv);
+  console.log('config: ', config)
   // Customize the config before returning it.
   config.resolve.alias['ui'] = '../../packages/ui';
   return config;
